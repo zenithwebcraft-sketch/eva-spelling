@@ -3,14 +3,17 @@ import { useNavigate } from "react-router-dom";
 import useSpellingStore from "../store/useSpellingStore";
 import { speak, cancelSpeech } from "../utils/tts";
 
-// Normaliza "B E C A U S E" → "BECAUSE"
 function normalizeSpelling(text) {
   return text
-    .replace(/[^A-Za-z]/g, "") // deja solo letras A-Z
+    .replace(/[^A-Za-z]/g, "")
     .toUpperCase()
     .trim();
 }
 
+function parseSentence(sentence, word) {
+  const regex = new RegExp(`(${word})`, "i");
+  return sentence.split(regex);
+}
 function WordCardAuto({ word, onResult }) {
   const [speaking, setSpeaking]   = useState(false);
   const [input, setInput]         = useState("");
