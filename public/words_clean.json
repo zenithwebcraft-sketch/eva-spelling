@@ -1,0 +1,2076 @@
+[
+  {
+    "id": 101,
+    "word": "GARBLED",
+    "spelling": "G-A-R-B-L-E-D",
+    "sentence": "Adith accidentally garbled the message he was asked to pass along to his sister.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 102,
+    "word": "IMITATION",
+    "spelling": "I-M-I-T-A-T-I-O-N",
+    "sentence": "Cristina opted to buy the imitation of the purse since it was several hundred dollars cheaper than the authentic one.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 103,
+    "word": "RECEPTIONIST",
+    "spelling": "R-E-C-E-P-T-I-O-N-I-S-T",
+    "sentence": "Nev spoke to the receptionist to schedule her next dental appointment.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 104,
+    "word": "PLAUSIBLE",
+    "spelling": "P-L-A-U-S-I-B-L-E",
+    "sentence": "Mr. Hudgins did not find Paul's excuse for being late to be plausible.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 105,
+    "word": "COMMOTION",
+    "spelling": "C-O-M-M-O-T-I-O-N",
+    "sentence": "Arthur couldn't hear Etienne over the commotion in the hallway.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 106,
+    "word": "IMMIGRANTS",
+    "spelling": "I-M-M-I-G-R-A-N-T-S",
+    "sentence": "Vladimir worked at a center for receiving immigrants and helping them find housing.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 107,
+    "word": "SPECTATORS",
+    "spelling": "S-P-E-C-T-A-T-O-R-S",
+    "sentence": "The spectators cheered when the home team scored a touchdown.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 108,
+    "word": "SUSPICIOUS",
+    "spelling": "S-U-S-P-I-C-I-O-U-S",
+    "sentence": "The police were called to inspect a suspicious package that was left at the airport.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 109,
+    "word": "RAMSHACKLE",
+    "spelling": "R-A-M-S-H-A-C-K-L-E",
+    "sentence": "Although Bonnie had always assumed the ramshackle house next door was empty, one night she heard strange noises coming from it.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 110,
+    "word": "HERON",
+    "spelling": "H-E-R-O-N",
+    "sentence": "Kaylee was stunned at the height of the goliath heron she saw at the African wetland park.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 111,
+    "word": "NOMAD",
+    "spelling": "N-O-M-A-D",
+    "sentence": "Graciela argued that her brother was not a nomad simply because he liked to sleep in a different place in the house every night.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 112,
+    "word": "SKEWER",
+    "spelling": "S-K-E-W-E-R",
+    "sentence": "Maggie put pieces of steak, bell peppers, and onions on the skewer.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 113,
+    "word": "LUNACY",
+    "spelling": "L-U-N-A-C-Y",
+    "sentence": "Kiley could not believe the lunacy she witnessed at the clown convention.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 114,
+    "word": "BRACKEN",
+    "spelling": "B-R-A-C-K-E-N",
+    "sentence": "Hans pushed an enormous bracken out of his path as he hiked uphill.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 115,
+    "word": "NEON",
+    "spelling": "N-E-O-N",
+    "sentence": "Even though Tim was wearing neon swimming trunks, his mom had trouble spotting him on the crowded beach.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 116,
+    "word": "HYPNOSIS",
+    "spelling": "H-Y-P-N-O-S-I-S",
+    "sentence": "Juan argued that he shouldn't get in trouble for stealing the cookies because he was in a state of hypnosis when the theft occurred.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 117,
+    "word": "GUSTO",
+    "spelling": "G-U-S-T-O",
+    "sentence": "Lottie approached painting with the gusto of one unrestrained by rules or schools of thought.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 118,
+    "word": "GLEANED",
+    "spelling": "G-L-E-A-N-E-D",
+    "sentence": "Investigators gleaned evidence of possible criminal activity from the suspect's Internet search history.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 119,
+    "word": "WINSOME",
+    "spelling": "W-I-N-S-O-M-E",
+    "sentence": "The little tyke's winsome smile won him many friends.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 120,
+    "word": "GALORE",
+    "spelling": "G-A-L-O-R-E",
+    "sentence": "Edie found bargains galore at the flea market.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 121,
+    "word": "ATRIUM",
+    "spelling": "A-T-R-I-U-M",
+    "sentence": "Douglas bought a new armchair and two large ferns to decorate his atrium.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 122,
+    "word": "SAVANT",
+    "spelling": "S-A-V-A-N-T",
+    "sentence": "Ibn Khaldun, a savant of the Middle Ages, made extensive contributions to the history of culture and thought.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 123,
+    "word": "HIPPIES",
+    "spelling": "H-I-P-P-I-E-S",
+    "sentence": "Aaron loved seeing pictures of his grandparents from the 1970s when they were hippies living on a commune in Tennessee.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 124,
+    "word": "CAMPAIGN",
+    "spelling": "C-A-M-P-A-I-G-N",
+    "sentence": "The bowling team triumphantly ended its ambitious campaign to win the state championship.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 125,
+    "word": "MOSQUE",
+    "spelling": "M-O-S-Q-U-E",
+    "sentence": "Visitors were required to remove their shoes before entering the mosque.",
+    "status": "pending",
+    "grade": "5th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 126,
+    "word": "WARLOCK",
+    "spelling": "W-A-R-L-O-C-K",
+    "sentence": "The warlock shrieked in rage as the paladin shattered his amulet.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 127,
+    "word": "CONVULSIVELY",
+    "spelling": "C-O-N-V-U-L-S-I-V-E-L-Y",
+    "sentence": "As Edna listened to the details of her son's accident, she dropped into a chair and sobbed convulsively.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 128,
+    "word": "GARISHLY",
+    "spelling": "G-A-R-I-S-H-L-Y",
+    "sentence": "She adorned her living room with garishly bright cushions and neon curtains, creating a space that felt more like a circus than a cozy home.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 129,
+    "word": "EVEREST",
+    "spelling": "E-V-E-R-E-S-T",
+    "sentence": "The athlete retired at the Everest of her career, feeling that she had accomplished everything she'd wanted to.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 130,
+    "word": "CAVORTING",
+    "spelling": "C-A-V-O-R-T-I-N-G",
+    "sentence": "In the Hieronymus Bosch painting \"Garden of Earthly Delights,\" horses and giant birds are seen cavorting in a surreal landscape.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 131,
+    "word": "CONSCIENCE",
+    "spelling": "C-O-N-S-C-I-E-N-C-E",
+    "sentence": "A person's conscience is often more compelling than a law.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 132,
+    "word": "DEFERENTIAL",
+    "spelling": "D-E-F-E-R-E-N-T-I-A-L",
+    "sentence": "The waiter's deferential behavior gained him a bigger tip.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 133,
+    "word": "KHAKI",
+    "spelling": "K-H-A-K-I",
+    "sentence": "Khaki comes from a word that means \"dust,\" which makes sense of its use for camouflage.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 134,
+    "word": "ASPHALT",
+    "spelling": "A-S-P-H-A-L-T",
+    "sentence": "Mr. and Mrs. Henry were glad that their gravel road would soon be paved with asphalt.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 135,
+    "word": "TALCUM",
+    "spelling": "T-A-L-C-U-M",
+    "sentence": "After taking a bath, Jennifer sprinkled her feet with talcum powder.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 136,
+    "word": "EQUESTRIAN",
+    "spelling": "E-Q-U-E-S-T-R-I-A-N",
+    "sentence": "The artist was best known for her equestrian paintings.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 137,
+    "word": "MONSIEUR",
+    "spelling": "M-O-N-S-I-E-U-R",
+    "sentence": "Monsieur Robert frequented the same bakery every day on his walk to work to have his favorite chocolate croissant.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 138,
+    "word": "PRESTIGIOUS",
+    "spelling": "P-R-E-S-T-I-G-I-O-U-S",
+    "sentence": "Eliza hoped she would gain acceptance into a prestigious Ivy League university.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 139,
+    "word": "GUTTURAL",
+    "spelling": "G-U-T-T-U-R-A-L",
+    "sentence": "Guttural consonants posed a problem for Jasmine in German class.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 140,
+    "word": "COURIER",
+    "spelling": "C-O-U-R-I-E-R",
+    "sentence": "Jaime worked as a courier after school to earn money to buy a new car.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 141,
+    "word": "PSYCHE",
+    "spelling": "P-S-Y-C-H-E",
+    "sentence": "Brianna loves music so much that she considers it part of her psyche.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 142,
+    "word": "FRANKENSTEIN",
+    "spelling": "F-R-A-N-K-E-N-S-T-E-I-N",
+    "sentence": "The environmental activist stated that nuclear power had become a Frankenstein.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 143,
+    "word": "ET CETERA",
+    "spelling": "E-T-C-E-T-E-R-A",
+    "sentence": "For his first trip to D.C., Jorge wanted to do all the cool things, like visit the museums, try new foods, meet the president, et cetera.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 144,
+    "word": "DELPHINE",
+    "spelling": "D-E-L-P-H-I-N-E",
+    "sentence": "Andrea spotted a delphine orca during the sightseeing boat trip.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 145,
+    "word": "ARCHIPELAGO",
+    "spelling": "A-R-C-H-I-P-E-L-A-G-O",
+    "sentence": "The country of Indonesia is an enormous archipelago.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 146,
+    "word": "PUISSANCE",
+    "spelling": "P-U-I-S-S-A-N-C-E",
+    "sentence": "Because of the students' extraordinary puissance with their teacher, they were able to convince him to replace their in-class midterm with a short take-home assignment.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 147,
+    "word": "CHIGNON",
+    "spelling": "C-H-I-G-N-O-N",
+    "sentence": "To emphasize her long neck, Cecile combed her hair into a tight chignon.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 148,
+    "word": "GALLEON",
+    "spelling": "G-A-L-L-E-O-N",
+    "sentence": "Traci built a model of a Spanish galleon out of matchsticks for her history project.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 149,
+    "word": "CHARTREUSE",
+    "spelling": "C-H-A-R-T-R-E-U-S-E",
+    "sentence": "Elsie selected chartreuse as the accent color for her pink bedroom.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 150,
+    "word": "NEHRU",
+    "spelling": "N-E-H-R-U",
+    "sentence": "Evelyn's Nehru jacket for evening wear is made of silk and embroidered with gold thread.",
+    "status": "pending",
+    "grade": "6th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 151,
+    "word": "SWAGGERING",
+    "spelling": "S-W-A-G-G-E-R-I-N-G",
+    "sentence": "Josiah brought a swaggering overconfidence to the job interview despite his lack of experience.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 152,
+    "word": "RIVETED",
+    "spelling": "R-I-V-E-T-E-D",
+    "sentence": "The magician riveted the kindergarteners with his special hat trick.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 153,
+    "word": "DIRGE",
+    "spelling": "D-I-R-G-E",
+    "sentence": "The mourners sang a dirge as they walked behind the casket.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 154,
+    "word": "WHITTLED",
+    "spelling": "W-H-I-T-T-L-E-D",
+    "sentence": "Herbert whittled some wood into the shape of a duck to gift his sister at her baby shower.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 155,
+    "word": "FIBERGLASS",
+    "spelling": "F-I-B-E-R-G-L-A-S-S",
+    "sentence": "The workers chose fiberglass as the material to reinforce the hull of the boat.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 156,
+    "word": "FISSURES",
+    "spelling": "F-I-S-S-U-R-E-S",
+    "sentence": "Rainwater trickled through the fissures in the window, causing the windowsill to become damp.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 157,
+    "word": "DISCIPLINE",
+    "spelling": "D-I-S-C-I-P-L-I-N-E",
+    "sentence": "Natasha's chosen discipline is European history of the 17th century.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 158,
+    "word": "SCURRYING",
+    "spelling": "S-C-U-R-R-Y-I-N-G",
+    "sentence": "Brigit enjoyed the squirrels she saw scurrying in her front yard.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 159,
+    "word": "PIZZERIA",
+    "spelling": "P-I-Z-Z-E-R-I-A",
+    "sentence": "Hank waited tables at Olive Garden on the weekends, but his dream was to open his own pizzeria someday.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 160,
+    "word": "SKITTISH",
+    "spelling": "S-K-I-T-T-I-S-H",
+    "sentence": "The Wall Street analyst outlined her reasons for remaining skittish about the stock market.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 161,
+    "word": "NOMINATION",
+    "spelling": "N-O-M-I-N-A-T-I-O-N",
+    "sentence": "Naomi worked hard on the speech she gave to her classmates, hoping to secure the nomination for student council.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 162,
+    "word": "DICTATORSHIP",
+    "spelling": "D-I-C-T-A-T-O-R-S-H-I-P",
+    "sentence": "When Mateo insisted his family get McDonald's for dinner, his sister declared that their family was a democracy, not a dictatorship, and that they should hold a vote.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 163,
+    "word": "SPORADIC",
+    "spelling": "S-P-O-R-A-D-I-C",
+    "sentence": "Mr. Gifford warned Katie that she would have to devote more than sporadic effort to her homework if she wanted to get a passing grade in his class.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 164,
+    "word": "REPUGNANT",
+    "spelling": "R-E-P-U-G-N-A-N-T",
+    "sentence": "Mario found the idea of slavery to be repugnant.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 165,
+    "word": "RENOWNED",
+    "spelling": "R-E-N-O-W-N-E-D",
+    "sentence": "George Washington Carver, a renowned agricultural scientist, introduced nitrogen-rich plants to cotton fields to replenish the soil and increase yield.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 166,
+    "word": "LABORIOUS",
+    "spelling": "L-A-B-O-R-I-O-U-S",
+    "sentence": "Restoration of the mansion will require laborious effort.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 167,
+    "word": "FORESEEABLE",
+    "spelling": "F-O-R-E-S-E-E-A-B-L-E",
+    "sentence": "President Garimella of the University of Vermont announced that there would be no tuition increases in the foreseeable future.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 168,
+    "word": "SCALPEL",
+    "spelling": "S-C-A-L-P-E-L",
+    "sentence": "In surgery, the scalpel is now often replaced by a laser.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 169,
+    "word": "COMPASSIONATE",
+    "spelling": "C-O-M-P-A-S-S-I-O-N-A-T-E",
+    "sentence": "Isaac's love of animals and compassionate nature make him an excellent candidate for veterinary school.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 170,
+    "word": "ALFALFA",
+    "spelling": "A-L-F-A-L-F-A",
+    "sentence": "The farmer rotated his crops, growing alfalfa one season and corn the next.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 171,
+    "word": "CREMATORIUM",
+    "spelling": "C-R-E-M-A-T-O-R-I-U-M",
+    "sentence": "Few funeral homes and cemeteries have their own crematorium.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 172,
+    "word": "AMICABLE",
+    "spelling": "A-M-I-C-A-B-L-E",
+    "sentence": "Carla and Jeanine have had an amicable relationship since they settled their initial dispute.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 173,
+    "word": "BEAUTICIAN",
+    "spelling": "B-E-A-U-T-I-C-I-A-N",
+    "sentence": "Chloe's grandmother refers to her stylist as a beautician.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 174,
+    "word": "ASSIGNMENT",
+    "spelling": "A-S-S-I-G-N-M-E-N-T",
+    "sentence": "Several students complained about the assignment that was due the day after spring break.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 175,
+    "word": "WHINNYING",
+    "spelling": "W-H-I-N-N-Y-I-N-G",
+    "sentence": "Jeffrey tried to get his horse to stop whinnying nervously before the race began.",
+    "status": "pending",
+    "grade": "7th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 176,
+    "word": "MEMOIRS",
+    "spelling": "M-E-M-O-I-R-S",
+    "sentence": "While originally gaining fame as a musician, Patti Smith has gained popularity in recent years for her powerful memoirs.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 177,
+    "word": "OMINOUS",
+    "spelling": "O-M-I-N-O-U-S",
+    "sentence": "For an instant there was an ominous stillness, quieter and more silent than ever before, as if even the air was holding its breath.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 178,
+    "word": "SYNDROME",
+    "spelling": "S-Y-N-D-R-O-M-E",
+    "sentence": "Louis' complaints of weakness, dizziness, and nausea following many amusement park rides led the doctor to diagnose him with motion sickness syndrome.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 179,
+    "word": "SAFARI",
+    "spelling": "S-A-F-A-R-I",
+    "sentence": "While on safari, Ariel photographed lions and elephants.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 180,
+    "word": "SUBSTANTIALLY",
+    "spelling": "S-U-B-S-T-A-N-T-I-A-L-L-Y",
+    "sentence": "Aunt Hedra was shocked to see that her nephew, Giovanni, had grown substantially in the two months since she had last seen him.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 181,
+    "word": "FORMIDABLE",
+    "spelling": "F-O-R-M-I-D-A-B-L-E",
+    "sentence": "Though the competition is formidable, Leona is confident that her team will emerge victorious in the double Dutch competition.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 182,
+    "word": "MARQUEE",
+    "spelling": "M-A-R-Q-U-E-E",
+    "sentence": "Though he may not have a marquee name, the character actor always improves the films in which he appears.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 183,
+    "word": "COMPUNCTION",
+    "spelling": "C-O-M-P-U-N-C-T-I-O-N",
+    "sentence": "The children showed no compunction about having eaten the entire cake before dinner.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 184,
+    "word": "HYPERVENTILATED",
+    "spelling": "H-Y-P-E-R-V-E-N-T-I-L-A-T-E-D",
+    "sentence": "Jerry hyperventilated when he got off the rollercoaster, and it took him a good five minutes to catch his breath.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 185,
+    "word": "ONSLAUGHT",
+    "spelling": "O-N-S-L-A-U-G-H-T",
+    "sentence": "The troops were unable to withstand the onslaught from the opposing army.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 186,
+    "word": "MISANTHROPE",
+    "spelling": "M-I-S-A-N-T-H-R-O-P-E",
+    "sentence": "Bria insisted that she was not a misanthrope; her face just \"did that sometimes.\"",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 187,
+    "word": "CRAVENLY",
+    "spelling": "C-R-A-V-E-N-L-Y",
+    "sentence": "Marcia was in a stand-off with the spider on her wall for hours before she cravenly swept it outside with a broom, screaming the whole time.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 188,
+    "word": "HYPOCRITICAL",
+    "spelling": "H-Y-P-O-C-R-I-T-I-C-A-L",
+    "sentence": "The speaker decried hypocritical politicians who espouse righteousness but engage in corrupt practices.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 189,
+    "word": "TRAUMATIC",
+    "spelling": "T-R-A-U-M-A-T-I-C",
+    "sentence": "Patients with traumatic injuries are often treated first in the emergency room before being sent to a surgeon or other specialist.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 190,
+    "word": "SOLEMNLY",
+    "spelling": "S-O-L-E-M-N-L-Y",
+    "sentence": "Henrietta solemnly placed the flowers upon the burial site of her prized goldfish, Frederick.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 191,
+    "word": "CONTENTIOUS",
+    "spelling": "C-O-N-T-E-N-T-I-O-U-S",
+    "sentence": "The members of the group were so contentious that Mrs. Taylor doubted any cooperative learning could take place.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 192,
+    "word": "ENSEMBLE",
+    "spelling": "E-N-S-E-M-B-L-E",
+    "sentence": "The principals in the play were ably supported by the ensemble.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 193,
+    "word": "LYE",
+    "spelling": "L-Y-E",
+    "sentence": "Greta was sure to handle the lye carefully and wash her hands afterwards, so that it would not burn her skin.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 194,
+    "word": "LACROSSE",
+    "spelling": "L-A-C-R-O-S-S-E",
+    "sentence": "Curious about lacrosse, Pamela signed up for an intramural team.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 195,
+    "word": "CAJOLERY",
+    "spelling": "C-A-J-O-L-E-R-Y",
+    "sentence": "After much cajolery, the kitten finally came down from the tree.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 196,
+    "word": "RESIDUALS",
+    "spelling": "R-E-S-I-D-U-A-L-S",
+    "sentence": "Even into his 40s, Tomas was still receiving residuals from acting jobs he did in college.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 197,
+    "word": "PEROXIDE",
+    "spelling": "P-E-R-O-X-I-D-E",
+    "sentence": "Josh's mom cleaned his cut with hydrogen peroxide.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 198,
+    "word": "APOCALYPSE",
+    "spelling": "A-P-O-C-A-L-Y-P-S-E",
+    "sentence": "The press hailed the senator's diary as an apocalypse.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 199,
+    "word": "BARRICADE",
+    "spelling": "B-A-R-R-I-C-A-D-E",
+    "sentence": "Eve used cushions and a chair as a barricade to prevent her brothers from getting in her room.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 200,
+    "word": "ANONYMOUSLY",
+    "spelling": "A-N-O-N-Y-M-O-U-S-L-Y",
+    "sentence": "Enna anonymously submitted a tip to the police help line.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 201,
+    "word": "BARRETTE",
+    "spelling": "B-A-R-R-E-T-T-E",
+    "sentence": "Kennedy could never find a barrette when she needed one, so she often had to make do with a hair tie.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 202,
+    "word": "JUNKET",
+    "spelling": "J-U-N-K-E-T",
+    "sentence": "Many citizens complained that the mayor's business trip to Brunei was merely a junket.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 203,
+    "word": "ERIE",
+    "spelling": "E-R-I-E",
+    "sentence": "The lakeshore location of Erie makes it extra sensitive to the changes of the seasons, with extra humid summers and extra snowy winters.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 204,
+    "word": "SILHOUETTE",
+    "spelling": "S-I-L-H-O-U-E-T-T-E",
+    "sentence": "Mrs. Baldwin has a framed silhouette of each of her children on the wall of her foyer.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 205,
+    "word": "THESAURUS",
+    "spelling": "T-H-E-S-A-U-R-U-S",
+    "sentence": "Caleb's paper read as if he had consulted a thesaurus frequently while writing it.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 206,
+    "word": "CHANDELIER",
+    "spelling": "C-H-A-N-D-E-L-I-E-R",
+    "sentence": "Dad finally got around to installing a dimmer switch for our chandelier.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 207,
+    "word": "CONCIERGE",
+    "spelling": "C-O-N-C-I-E-R-G-E",
+    "sentence": "The concierge took note of the mysterious man's comings and goings at the hotel.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 208,
+    "word": "HIBISCUS",
+    "spelling": "H-I-B-I-S-C-U-S",
+    "sentence": "Darla planted a hibiscus outside her bedroom window.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 209,
+    "word": "MARACAS",
+    "spelling": "M-A-R-A-C-A-S",
+    "sentence": "The band's percussionist accentuated the rhythm with maracas.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 210,
+    "word": "BURPEES",
+    "spelling": "B-U-R-P-E-E-S",
+    "sentence": "After 15 burpees, Araceli begged the coach for a water break.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 211,
+    "word": "PICCOLO",
+    "spelling": "P-I-C-C-O-L-O",
+    "sentence": "The band director thought that the flute section needed one more piccolo.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 212,
+    "word": "TULLE",
+    "spelling": "T-U-L-L-E",
+    "sentence": "Lolly's floor-length wedding veil, made of white tulle and Belgian lace, is a gift from her grandmother.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 213,
+    "word": "CAMPHOR",
+    "spelling": "C-A-M-P-H-O-R",
+    "sentence": "Whenever Johnny has a cold, his mother spreads on his chest an aromatic ointment containing camphor.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 214,
+    "word": "PAPARAZZI",
+    "spelling": "P-A-P-A-R-A-Z-Z-I",
+    "sentence": "Many people still blame the paparazzi for their apparent role in the death of Princess Diana.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 215,
+    "word": "POGROM",
+    "spelling": "P-O-G-R-O-M",
+    "sentence": "Many Jews emigrated from Europe to escape the ongoing pogrom.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 216,
+    "word": "PÂTISSERIE",
+    "spelling": "P-A-T-I-S-S-E-R-I-E",
+    "sentence": "Gail operates an online pâtisserie and has sent gift baskets overnight to locations in more than 50 countries.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 217,
+    "word": "SARSAPARILLA",
+    "spelling": "S-A-R-S-A-P-A-R-I-L-L-A",
+    "sentence": "Zach found a lunch counter that had sarsaparilla on its menu.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 218,
+    "word": "CANNELLONI",
+    "spelling": "C-A-N-N-E-L-L-O-N-I",
+    "sentence": "The specialty of the house at Alberto's is cannelloni with wild mushroom sauce.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 219,
+    "word": "BRONCHITIS",
+    "spelling": "B-R-O-N-C-H-I-T-I-S",
+    "sentence": "Because of his acute bronchitis, Sam had to temporarily give up jogging.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 220,
+    "word": "DIPHTHERIA",
+    "spelling": "D-I-P-H-T-H-E-R-I-A",
+    "sentence": "Because children are routinely immunized against diphtheria, it is no longer a threat in the United States.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 221,
+    "word": "CORBELS",
+    "spelling": "C-O-R-B-E-L-S",
+    "sentence": "The decorative corbels feature the likenesses of the sculptor and his apprentice.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  },
+  {
+    "id": 222,
+    "word": "KILIMANJARO",
+    "spelling": "K-I-L-I-M-A-N-J-A-R-O",
+    "sentence": "Natalie dreamed of reaching the summit of Kilimanjaro, but for now she'd settle for climbing the hillock near her house.",
+    "status": "pending",
+    "grade": "8th",
+    "stats": {
+      "timesShown": 0,
+      "timesCorrect": 0,
+      "timesWrong": 0,
+      "accuracy": 0,
+      "streak": 0,
+      "lastSeen": null,
+      "firstSeen": null
+    }
+  }
+]
