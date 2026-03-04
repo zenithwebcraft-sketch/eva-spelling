@@ -5,12 +5,10 @@ import { speak, cancelSpeech } from "../utils/tts";
 
 // Normaliza "B E C A U S E" → "BECAUSE"
 function normalizeSpelling(text) {
-  return text.replace(/\s+/g, "").toUpperCase().trim();
-}
-
-function parseSentence(sentence, word) {
-  const regex = new RegExp(`(${word})`, "i");
-  return sentence.split(regex);
+  return text
+    .replace(/[^A-Za-z]/g, "") // deja solo letras A-Z
+    .toUpperCase()
+    .trim();
 }
 
 function WordCardAuto({ word, onResult }) {
@@ -50,19 +48,22 @@ function WordCardAuto({ word, onResult }) {
     }
   }, []);
 
-  function handleCheck() {
+    function handleCheck() {
     if (!input.trim() || status) return;
-    const normalized = normalizeSpelling(input);
-    const expected   = word.word.replace(/\s+/g, "").toUpperCase();
-    const isCorrect  = normalized === expected;
+
+    const normalizedInput = normalizeSpelling(input);        // lo que Wispr escribió
+    const expected        = normalizeSpelling(word.word);    // campo word del JSON
+
+    const isCorrect  = normalizedInput === expected;
 
     setStatus(isCorrect ? "correct" : "wrong");
-    setRevealed(true);
+    setRevealed(true); // muestra spelling siempre
 
     if (isCorrect) {
-      setTimeout(() => onResult(word.id, "mastered"), 1500);
+        setTimeout(() => onResult(word.id, "mastered"), 1500);
     }
-  }
+    }
+
 
   function handleKeyDown(e) {
     if (e.key === "Enter") handleCheck();
