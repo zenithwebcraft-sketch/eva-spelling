@@ -50,26 +50,26 @@ export default function Home() {
 
         {/* Selector de hija / perfil */}
         <div className="grid grid-cols-2 gap-2 mb-6">
-          <button
+            <button
             onClick={() => setActiveGrade("1st")}
             className={`py-2 rounded-2xl text-sm font-semibold border ${
-              activeGrade === "1st"
+                activeGrade === "1st"
                 ? "bg-pink-500 text-white border-pink-500 shadow-md"
                 : "bg-white text-pink-400 border-pink-200"
             }`}
-          >
+            >
             🌈 Estrella (1st)
-          </button>
-          <button
+            </button>
+            <button
             onClick={() => setActiveGrade("all")}
             className={`py-2 rounded-2xl text-sm font-semibold border ${
-              activeGrade === "all"
+                activeGrade === "all"
                 ? "bg-indigo-600 text-white border-indigo-600 shadow-md"
                 : "bg-white text-indigo-400 border-indigo-200"
             }`}
-          >
+            >
             🚀 Eva (5th–8th)
-          </button>
+            </button>
         </div>
 
         {/* Botón Practice manual */}

@@ -28,26 +28,27 @@ const useSpellingStore = create(
       },
 
       // 🔸 cambiar perfil activo
-      setActiveGrade: (gradeKey) => {
-        // gradeKey: "all" | "1st"
+        setActiveGrade: (gradeKey) => {
         set({
-          activeGrade: gradeKey,
-          currentDeal: [],
-          currentIndex: 0,
-          isFirstDeal: true,
-          // sesión se puede seguir contando globalmente
+            activeGrade: gradeKey,   // "1st" o "all"
+            currentDeal: [],
+            currentIndex: 0,
+            isFirstDeal: true,
         });
-      },
+        },
 
       // helper que devuelve el subset según perfil
-      getActiveWords: () => {
+        getActiveWords: () => {
         const { words, activeGrade } = get();
+
         if (activeGrade === "1st") {
-          return words.filter(w => w.grade === "1st");
+            // 🌈 Estrella
+            return words.filter(w => (w.grade || "").toLowerCase() === "1st");
         }
-        // Eva: todo menos 1st
-        return words.filter(w => w.grade !== "1st");
-      },
+
+        // 🚀 Eva (todo lo que NO sea 1st)
+        return words.filter(w => (w.grade || "").toLowerCase() !== "1st");
+        },
 
       // --- Repartir 10 palabras ---
       deal: () => {
@@ -130,17 +131,17 @@ const useSpellingStore = create(
       },
 
       // --- Stats por perfil activo ---
-      getStats: () => {
+        getStats: () => {
         const { getActiveWords, sessionHistory } = get();
         const active = getActiveWords();
         return {
-          total: active.length,
-          pending: active.filter(w => w.status === "pending").length,
-          mastered: active.filter(w => w.status === "mastered").length,
-          struggling: active.filter(w => w.status === "struggling").length,
-          sessions: sessionHistory.length,
+            total: active.length,
+            pending: active.filter(w => w.status === "pending").length,
+            mastered: active.filter(w => w.status === "mastered").length,
+            struggling: active.filter(w => w.status === "struggling").length,
+            sessions: sessionHistory.length,
         };
-      },
+        },
     }),
     {
       name: "eva-spelling-store",
