@@ -3,6 +3,42 @@ import { useNavigate } from "react-router-dom";
 import useSpellingStore from "../store/useSpellingStore";
 import { speak, cancelSpeech } from "../utils/tts";
 
+// Sonidos nativos sin archivos
+let audioContext = null;
+
+function playSound(frequency, duration, type = "sine") {
+  audioContext = audioContext || new (window.AudioContext || window.webkitAudioContext)();
+  
+  const oscillator = audioContext.createOscillator();
+  const gainNode   = audioContext.createGain();
+
+  oscillator.connect(gainNode);
+  gainNode.connect(audioContext.destination);
+
+  oscillator.frequency.value = frequency;
+  oscillator.type = type;
+
+  gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
+  gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + duration);
+
+  oscillator.start(audioContext.currentTime);
+  oscillator.stop(audioContext.currentTime + duration);
+}
+
+function playSuccess() {
+  // 🎉 Correcto: acorde ascendente triunfal
+  playSound(523, 0.15, "sine");   // Do
+  setTimeout(() => playSound(659, 0.15, "sine"), 150); // Mi
+  setTimeout(() => playSound(784, 0.3, "sine"), 300);  // Sol
+}
+
+function playError() {
+  // ❌ Error: acorde descendente triste
+  playSound(392, 0.15, "square"); // Sol
+  setTimeout(() => playSound(330, 0.15, "square"), 150); // Mi
+  setTimeout(() => playSound(262, 0.3, "square"), 300);  // Do
+}
+
 function normalizeSpelling(text) {
   return text
     .replace(/[^A-Za-z]/g, "")
@@ -49,12 +85,10 @@ function WordCardAuto({ word, onResult }) {
     };
   }, [word.id]);
 
-  function handleResultFromSpeech(rawTranscript) {
-    // rawTranscript = lo que escuchó el navegador, ej: "F I R S T"
-    const normalized = normalizeLettersString(rawTranscript); // "FIRST"
+    function handleResultFromSpeech(rawTranscript) {
+    const normalized = normalizeLettersString(rawTranscript);
     const expected   = word.word.toUpperCase();
-
-    const isCorrect = normalized === expected;
+    const isCorrect  = normalized === expected;
 
     // Visual: F-I-R-S-T
     const letters = normalized.split("");
@@ -63,10 +97,17 @@ function WordCardAuto({ word, onResult }) {
     setStatus(isCorrect ? "correct" : "wrong");
     setRevealed(true);
 
+    // 🎵 Sonido inmediato
     if (isCorrect) {
-      setTimeout(() => onResult(word.id, "mastered"), 1500);
+        playSuccess();
+        // 3 segundos de celebración + avanza
+        setTimeout(() => onResult(word.id, "mastered"), 3000);
+    } else {
+        playError();
+        // Error: sin auto-avance, papá decide
     }
-  }
+    }
+
 
   function startListening() {
     const SpeechRecognition =
@@ -164,26 +205,46 @@ function WordCardAuto({ word, onResult }) {
       </div>
 
       {/* Campo de letras escuchadas */}
-      <div>
-        <span className="text-xs text-gray-300 uppercase tracking-widest block mb-2">
-          Say the letters one by one →
-        </span>
-        <div
-          className={`w-full text-center text-2xl font-mono font-bold rounded-2xl border-2 py-4 px-4 ${inputBg}`}
-        >
-          {displayLetters || "🎙 Click the button to start"}
-        </div>
-        {status === "correct" && (
-          <p className="text-center text-green-500 font-bold mt-2 text-lg animate-bounce">
-            ✅ Perfect! 🎉
-          </p>
-        )}
-        {status === "wrong" && (
-          <p className="text-center text-red-400 font-bold mt-2 text-lg">
-            ❌ Not quite — check the spelling below
-          </p>
-        )}
-      </div>
+<div>
+  <span className="text-xs text-gray-300 uppercase tracking-widest block mb-2">
+    Say the letters one by one →
+  </span>
+  <div
+    className={`w-full text-center text-2xl font-mono font-bold rounded-2xl border-2 py-4 px-4 transition-all duration-300 tracking-widest ${inputBg}`}
+    style={{
+      animation: status === "correct" 
+        ? "bounce 0.6s ease-in-out" 
+        : status === "wrong" 
+        ? "shake 0.5s ease-in-out" 
+        : "none"
+    }}
+  >
+    {displayLetters || "🎙 Click the button to start"}
+  </div>
+  {status === "correct" && (
+    <p className="text-center text-green-500 font-bold mt-2 text-lg animate-bounce">
+      ✅ Perfect! 🎉
+    </p>
+  )}
+  {status === "wrong" && (
+    <p className="text-center text-red-400 font-bold mt-2 text-lg">
+      ❌ Not quite — check the spelling below
+    </p>
+  )}
+</div>
+
+<style jsx>{`
+  @keyframes bounce {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-4px); }
+    75% { transform: translateX(4px); }
+  }
+`}</style>
+
 
       {/* Botón de escucha / override */}
       {!status ? (
